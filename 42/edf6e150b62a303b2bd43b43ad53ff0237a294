@@ -1,0 +1,16 @@
+assets/style/Style.css
+  h_40fd8c372bdf07 1-170
+index.html
+  h_40fd8c372bdf07 1-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "42edf6e150b62a303b2bd43b43ad53ff0237a294",
+  "prompts": {},
+  "humans": {
+    "h_40fd8c372bdf07": {
+      "author": "S Kumar <skumar@mastergrok.com>"
+    }
+  }
+}
