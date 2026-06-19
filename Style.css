@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+.navbar {
+    background: rgba(0, 10, 40, .9) !important;
+    backdrop-filter: blur(8px);
+}
+
+.navbar-brand,
+.nav-link {
+    color: #fff !important;
+}
+
+.nav-link:hover {
+    color: #0dcaf0 !important;
+}
+
+.dropdown-menu {
+    background: #001a4d;
+}
+
+.dropdown-item {
+    color: #fff;
+}
+
+#skills {
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 40px;
+    background: transparent;
+}
+
+#skills h2 {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.skill-item span {
+    color: #fff;
+    font-weight: 600;
+}
+
+.progress {
+    height: 12px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, .2);
+}
+
+.progress-bar {
+    border-radius: 20px;
+}
+
+.navbar-toggler {
+    border: 1px solid #fff;
+}
+
+body {
+    background-image: url("./—Pngtree—symbolizing\ the\ intricacies\ of\ project_16045660.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    color: #0d6efd;
+}
+
+.hero-section {
+    background: linear-gradient(rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.7)),
+        url("./images/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.hero-section h1 {
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+.hero-section h2 {
+    color: #00d4ff;
+    margin-bottom: 20px;
+}
+
+.hero-section p {
+    font-size: 1.1rem;
+    margin-bottom: 25px;
+}
+
+.profile-img {
+    width: 400px;
+    max-width: 100%;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0, 212, 255, 0.4);
+}
+
+.btn-info {
+    padding: 12px 25px;
+    font-weight: 600;
+}
+
+#projects {
+    min-height: auto;
+}
+
+.project-card {
+    border: none;
+    border-radius: 15px;
+    overflow: hidden;
+    transition: 0.4s;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.project-card:hover {
+    transform: translateY(-10px);
+}
+
+.project-card img {
+    height: 220px;
+    object-fit: cover;
+}
+
+.card-body {
+    text-align: center;
+}
+
+#hobbies h2 {
+    color: #fff;
+}
+
+.hobby-card {
+    background: rgba(255, 255, 255, 0.08);
+    padding: 25px;
+    border-radius: 15px;
+    backdrop-filter: blur(10px);
+    transition: .4s;
+    height: 100%;
+}
+
+.hobby-card:hover {
+    transform: translateY(-10px);
+}
+
+.hobby-card i {
+    color: #00d4ff;
+    margin-bottom: 15px;
+}
+
+.hobby-card h4 {
+    color: #fff;
+}
+
+.hobby-card p {
+    color: #ddd;
+}
