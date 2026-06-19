@@ -70,7 +70,7 @@ body {
 }
 
 body {
-    background-image: url("./—Pngtree—symbolizing\ the\ intricacies\ of\ project_16045660.jpg");
+    background-image: url("./images/bg-index.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -81,7 +81,7 @@ body {
 .hero-section {
     background: linear-gradient(rgba(0, 0, 0, 0.7),
             rgba(0, 0, 0, 0.7)),
-        url("./images/bg.jpg");
+        url("./images/bg-index.jpg");
     background-size: cover;
     background-position: center;
     color: white;
